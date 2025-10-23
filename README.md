@@ -38,6 +38,7 @@ python manage.py runserver
 - Implement a system to send real messages instead of just simulating them (real emails or SMS).
 - Add a simple frontend interface to display the status of notifications to users.
 
-## Example API Request
+## Result API Request
+### Create Notification API
 ![Create Notification API](create_notification_api.png)
 
