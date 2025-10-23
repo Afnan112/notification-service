@@ -37,5 +37,7 @@ python manage.py runserver
 - Support for additional notification channels, such as WhatsApp or Slack.
 - Implement a system to send real messages instead of just simulating them (real emails or SMS).
 - Add a simple frontend interface to display the status of notifications to users.
-  
+
+## Example API Request
+![Create Notification API](create_notification_api.png)
 
