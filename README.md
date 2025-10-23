@@ -42,3 +42,9 @@ python manage.py runserver
 ### Create Notification API
 ![Create Notification API](create_notification_api.png)
 
+![status_notification](status_notification_pending.png)
+![status_notification](status_notification_send.png)
+![status_notification](qClaster.png)
+
+
+
