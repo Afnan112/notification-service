@@ -6,17 +6,17 @@ git clone https://github.com/Afnan112/notification-service.git
 cd notification-service
 ```
 2. Install dependencies
-```
+```base
 pip install pipenv
 pipenv install
 pipenv shell
 ```
 3. Apply database migrations
- ```
+ ```base
    python manage.py migrate
 ```
 4. Run the server
-```
+```base
 python manage.py runserver
 ```
 5. Access the API or admin panel
