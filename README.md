@@ -46,5 +46,7 @@ python manage.py runserver
 ![status_notification](status_notification_send.png)
 ![status_notification](qClaster.png)
 
+### Retrieve a specific notification by ID
+![status_notification](notification_by_ID.png)
 
 
