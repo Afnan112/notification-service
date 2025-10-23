@@ -48,5 +48,6 @@ python manage.py runserver
 
 ### Retrieve a specific notification by ID
 ![status_notification](notification_by_ID.png)
+![status_notification](notification_by_ID_err.png)
 
 
