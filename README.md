@@ -20,6 +20,6 @@ pipenv shell
 python manage.py runserver
 ```
 5. Access the API or admin panel
-   Create notification: POST /api/notifications
-   Check status and details of the notification: GET /api/notifications/:id
-   Django admin (for viewing notifications): http://127.0.0.1:8000/admin/
+   - Create notification: POST /api/notifications
+   - Check status and details of the notification: GET /api/notifications/:id
+   - Django admin (for viewing notifications): http://127.0.0.1:8000/admin/
